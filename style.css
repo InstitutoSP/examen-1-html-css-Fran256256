@@ -1,0 +1,12 @@
+p {
+    font-size: 18px; 
+}
+body {
+    background-color: #eee;
+}
+header {
+    background-color:#0000 ;
+    font:#fff; 
+    display: center;
+    padding: 20px;
+}
